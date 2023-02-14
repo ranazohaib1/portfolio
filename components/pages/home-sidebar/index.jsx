@@ -89,7 +89,7 @@ const EdinaHomeSidebar = () => {
 						</p>
 					</div>
 					{/* End edian_tm_title */}
-					<Service />
+					{/* <Service /> */}
 				</div>
 			</div>
 			{/* End Services */}
@@ -101,7 +101,7 @@ const EdinaHomeSidebar = () => {
 				<div className="container">
 					<div className="edina_tm_title">
 						<h3>Portfolio</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ipsum sit nibh amet egestas tellus.</p>
+						<p>{`The following are some of the projects I have worked on and are live today`}</p>
 					</div>
 					{/* End edian_tm_title */}
 					<Portfolio />
@@ -109,23 +109,22 @@ const EdinaHomeSidebar = () => {
 			</div>
 			{/* End Portfolio */}
 
-			<div
+			{/* <div
 				className="edina_tm_testimonials"
 				id="testimonial"
 			>
 				<div className="container">
 					<div className="edina_tm_title">
 						<h3>Testimonials</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ipsum sit nibh amet egestas tellus.</p>
+						<p>{`The following are some of the people who worked with me and gave me a feedback`} </p>
 					</div>
-					{/* End edian_tm_title */}
 					<div className="list ">
 						<ul>
 							<Testimonial />
 						</ul>
 					</div>
 				</div>
-			</div>
+			</div> */}
 			{/* End Testimonial */}
 
 			{/* <div
