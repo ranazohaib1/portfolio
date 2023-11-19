@@ -3,7 +3,7 @@ module.exports = [
     year: "2017 - 2021",
     degree: "Computer Science",
     institute: "Information Technology University",
-    details: `  Elective Courses : \n \n Blockchain, Game Development, Mobile Application Development, Computer Vision, Software Testing`,
+    details: `  Elective Courses : \n \n Blockchain, Game Development, Mobile Application Development, Computer Vision, Software Testing, Web Development`,
   },
   // {
   //   year: "2012",

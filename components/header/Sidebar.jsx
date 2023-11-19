@@ -9,8 +9,8 @@ import logo2 from "../../public/img/logo/light.png";
 // sidebar footer bottom content
 const sidebarFooterContent = {
 	name: "Zohaib",
-	email: "zohaib.dilshad.1@gmail.com",
-	emailRef: "mailto:zohaib.dilshad.1@gmail.com"
+	email: "zohaib.dilshad.10@gmail.com",
+	emailRef: "mailto:zohaib.dilshad.10@gmail.com"
 };
 
 const Sidebar = () => {

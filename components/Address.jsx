@@ -5,14 +5,9 @@ const Address = () => {
 			iconImg: "img/address/phone.png",
 			name: "Phone",
 			info: (
-				<>
-					<li>
-						<a href="Tel: +92 309 6617 677">+92 309 6617 677</a>
-					</li>
-					{/* <li>
-						<a href="Tel: +465 562 226">+465 562 226</a>
-					</li> */}
-				</>
+				<li>
+					<a href="Tel: +92 309 6617 677">+92 309 6617 677</a>
+				</li>
 			),
 			animDelay: "0"
 		},
@@ -21,14 +16,9 @@ const Address = () => {
 			iconImg: "img/address/email.png",
 			name: "Email",
 			info: (
-				<>
-					<li>
-						<a href="mailto:ib-themes21@gmail.com">zohaib.dilshad.1@gmail.com</a>
-					</li>
-					{/* <li>
-						<a href="mailto:ib-themes21@gmail.com">example@support.com</a>
-					</li> */}
-				</>
+				<li>
+					<a href="mailto:ib-themes21@gmail.com">zohaib.dilshad.10@gmail.com</a>
+				</li>
 			),
 			animDelay: "100"
 		},
@@ -37,15 +27,9 @@ const Address = () => {
 			iconImg: "img/address/location.png",
 			name: "Address",
 			info: (
-				<>
-					<li>
-						<p>
-							554A Ali park bedian road,
-							<br />
-							Lahore, Pakistan
-						</p>
-					</li>
-				</>
+				<li>
+					<p> Lahore, Punjab, Pakistan </p>
+				</li>
 			),
 			animDelay: "200"
 		}

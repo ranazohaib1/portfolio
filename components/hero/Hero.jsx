@@ -9,8 +9,7 @@ const heroContent = {
 	shapeImage: shapeImage,
 	heroImage: heroImage,
 	name: "Zohaib Dilshad",
-	description: `I'm a Freelancer MERN stack Developer based In Pakistan, over 2+ years of
-  professional experience.`
+	description: `I'm a Software Developer based In Pakistan, over 5+ years of professional experience.`
 };
 
 const Hero = () => {
@@ -51,7 +50,7 @@ const Hero = () => {
 								loop
 								typeSpeed={150}
 								backSpeed={60}
-								strings={["Web Developer"]}
+								strings={["Software Developer"]}
 								smartBackspace
 								shuffle={false}
 								backDelay={1}
