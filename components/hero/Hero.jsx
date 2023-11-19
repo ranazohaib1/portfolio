@@ -9,7 +9,7 @@ const heroContent = {
 	shapeImage: shapeImage,
 	heroImage: heroImage,
 	name: "Zohaib Dilshad",
-	description: `I'm a Software Developer based In Pakistan, over 5+ years of professional experience.`
+	description: `I'm a Software Developer based In Pakistan, over 4+ years of professional experience.`
 };
 
 const Hero = () => {
