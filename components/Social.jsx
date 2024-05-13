@@ -7,16 +7,17 @@ const SocialShare = [
 	// 	link: "https://www.facebook.com/"
 	// },
 	// { iconName: <FiTwitter />, link: "https://twitter.com/" },
-	{
-		iconName: <FiInstagram />,
-		link: "https://www.instagram.com/zohaib.dilshad.1/"
-	},
+	// {
+	// 	iconName: <FiInstagram />,
+	// 	link: "https://www.instagram.com/zohaib.dilshad.1/"
+	// },
 	// { iconName: <FiDribbble />, link: "https://dribbble.com/" },
 	{
 		iconName: <FiLinkedin />,
 		link: "https://www.linkedin.com/in/zohaib-dilshad-510237207/"
 	}
 ];
+
 const Social = () => {
 	return (
 		<ul>

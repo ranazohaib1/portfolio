@@ -6,6 +6,6 @@ module.exports = [
   { meta: "Freelance", metaInfo: "Available" },
   { meta: "Address", metaInfo: "Lahore, Punjab Pakistan" },
   { meta: "phone", metaInfo: "+923096617677" },
-  { meta: "Email", metaInfo: "zohaib.dilshad.1@gmail.com" },
+  { meta: "Email", metaInfo: "zohaib.dilshad.10@gmail.com" },
   { meta: "langages", metaInfo: "English, Urdu" },
 ];

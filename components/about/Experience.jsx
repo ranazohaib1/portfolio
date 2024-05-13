@@ -1,4 +1,5 @@
 import experienceContent from "../../data/experience";
+import { FiFacebook, FiTwitter, FiInstagram, FiDribbble, FiLinkedin, FiBriefcase } from "react-icons/fi";
 
 const Experience = () => {
   return (
@@ -6,7 +7,8 @@ const Experience = () => {
       {experienceContent.map((val, i) => (
         <li key={i}>
           <div className="icon">
-            <img src="img/about/briefcase.png" alt="icon" />
+            {/* <img src="img/about/briefcase.png" alt="icon" /> */}
+            <FiBriefcase size="lg"/>
             <i className="fa fa-briefcase"></i>
           </div>
           <span className="time open-sans-font text-uppercase">{val.year}</span>
