@@ -9,7 +9,7 @@ const heroContent = {
 	shapeImage: shapeImage,
 	heroImage: heroImage,
 	name: "Zohaib Dilshad",
-	description: `I'm a Freelancer MERN stack Developer based In Pakistan, over 2+ years of
+	description: `I'm a Freelancer MERN stack Developer based In Pakistan, over 5+ years of
   professional experience.`
 };
 

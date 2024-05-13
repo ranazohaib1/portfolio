@@ -8,7 +8,7 @@ module.exports = [
 		meta: "Driving School",
 		clientName: "Mikael Castaldo & Osama Siddique",
 		category: "Driving School",
-		date: "Sep 01, 2022",
+		date: "Feb 07, 2021",
 		projectDescriptions: (
 			<p>
 				Kruzee is a leading driving school located in Canada. The Kruzee online portal offers a comprehensive and convenient way to learn how to drive, and is dedicated to helping students acquire their driving license.
@@ -27,7 +27,7 @@ module.exports = [
 		meta: "E-Commerce",
 		clientName: "Jeff Hancox",
 		category: "E-Commerce",
-		date: "December 5, 2022",
+		date: "Aug 5, 2022",
 
 		projectDescriptions: (
 			<>
